@@ -1,0 +1,1 @@
+print("Hey Vanshika \"I Love You\" and \'You are very Beutiful\'I Like You.")

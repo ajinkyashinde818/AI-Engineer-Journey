@@ -1,0 +1,1 @@
+print("Time \t Subject \n9 Am \t Math \n10 Am \t English \n11 Am \t Science")

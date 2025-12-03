@@ -1,0 +1,1 @@
+print("❤️  Your voice is soft, your eyes are true,\nIn every dream, I find you.\nLove isn’t loud — it’s quiet and real.")

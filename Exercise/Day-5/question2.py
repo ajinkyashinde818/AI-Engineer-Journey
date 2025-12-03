@@ -1,0 +1,1 @@
+print("My Name is Ajinkya Shinde \nand City is Shrirampur")

@@ -1,0 +1,1 @@
+print("A boy found a small broken robot near his house.\nInstead of throwing it away, he fixed it day by day.\nSlowly, the robot started working and learned to talk.\nThey became best friends and explored new ideas together.\nOne day, the robot said, “You didn’t fix me… you believed in me.”\nThe boy smiled — because that was true for himself too. 💙")

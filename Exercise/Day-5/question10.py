@@ -1,0 +1,1 @@
+print("Dreams aren’t meant to stay dreams \nthey’re meant to be achieved")

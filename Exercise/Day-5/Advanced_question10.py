@@ -1,0 +1,1 @@
+print("--- MENU --- \n1. Start \n a. New Game \n b. Load Game \n2. Settings \n3.Exit")

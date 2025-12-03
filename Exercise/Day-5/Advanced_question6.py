@@ -1,0 +1,1 @@
+print("--------ID card-------- \nName:Ajinkya \nStd:3rd Year \nRoll no:47")

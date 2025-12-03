@@ -1,0 +1,1 @@
+print("---------- INVOICE ---------- \nProduct Name:Sparx Shoes \nProduct Price:5000 \nSold Date:17/12/2025")
