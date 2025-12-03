@@ -78,11 +78,12 @@ SDLC knowledge
 ⭐ Connect With Me
 
 📍 Shrirampur, India
-💼 LinkedIn: https://www.linkedin.com/in/ajinkyashinde818/
+💼 LinkedIn: https://www.linkedin.com/in/ajinkyashinde818/           
 🔥 GitHub Journey continues…
 
 ✨ Progress continues…
 
 If you’re reading this — thank you for being part of my growth.
 More updates coming soon. 🚀🔥
+
 
